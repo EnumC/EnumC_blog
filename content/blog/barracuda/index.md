@@ -19,6 +19,7 @@ Seagate by entering your serial number as S1E1SETE. The update package is around
 site will allow you to download at 100kb/s. So downloading it from GitHub would "probably" be faster.
 
 [Linky to firmware + tools](https://github.com/EnumC/EnumC.com/releases/download/binary1/Barracuda-GrenadaBP-CC29-CC49.zip)
+[archive.org Mirror](https://archive.org/details/barracuda-grenada-bp-cc-29-cc-49)
 
 The package I got was named `Barracuda-GrenadaBP-CC29-CC49.zip` with MD5 `C922592AF41DDAD2CBD629A94053ADCF`.
 

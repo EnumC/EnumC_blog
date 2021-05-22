@@ -14,3 +14,4 @@ Here's my reupload of the driver: http://ericqian.me/files/binary/uareu4500_driv
 
 If that doesn't work, download it directly from my GitHub repo: https://github.com/EnumC/EnumC.com/blob/test-branch/files/binary/uareu4500_driver_WBF_5005.zip
 
+Archive.org mirror: https://archive.org/details/uareu4500_driver_WBF_5005
