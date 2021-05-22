@@ -8,7 +8,7 @@ const site = {
   github: 'EnumC',
   medium: '',
   facebook: '',
-  disqusShortName: 'EnumC-Blog',
+  disqusShortName: 'enumc',
   googleTrackingId: 'G-XXXXXXXX',
   lang: 'en',
   displayTranslations: true,

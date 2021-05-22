@@ -2,7 +2,8 @@
 title: Upgrading Firmware On An OEM Barracuda ST2000DM001-1CH164
 date: "2021-05-21"
 tags: ["hdd"]
-description: "test description"
+description: "Hi, you! If you're on this page, you most likely tried to search for a tutorial on upgrading
+your Dell Barracuda (GrenadaBP) ST2000DM001	HDD"
 disqus: true
 ---
 

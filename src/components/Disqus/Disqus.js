@@ -35,7 +35,7 @@ Disqus.propTypes = {
 };
 
 Disqus.defaultProps = {
-  show: false,
+  show: true,
 };
 
 export default Disqus;

@@ -6,10 +6,10 @@ const {
   description,
   siteUrl,
   twitter = '',
-  github = '',
+  github = 'EnumC',
   medium = '',
   facebook = '',
-  disqusShortName = '',
+  disqusShortName = 'enumc',
   lang = 'en',
   googleTrackingId: trackingId,
 } = require('./config').site;

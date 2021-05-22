@@ -1,8 +1,8 @@
 ---
-title: Hello World
+title: First Post :)
 date: "2015-05-01T22:12:03.284Z"
 tags: ["testTag1", "testTag2"]
-description: "test description"
+description: "Testing a new blog"
 disqus: true
 ---
 
@@ -12,4 +12,4 @@ Markdown Test
 
 > Hello I am markdown test :)
 
-![TestImg](./salty_egg.jpg)
+![TestImg](./photo-1621123073224-c10821c4224e.jpg)
