@@ -2,7 +2,7 @@
 title: Getting Windows Hello Working For U.are.U 4500
 date: "2021-05-21"
 tags: ["sensors"]
-description: " Do you have a random U.are.U 4500 fingerprint reader laying around collecting dust due to the lack of driver support on Windows 10?"
+description: "Do you have a random U.are.U 4500 fingerprint reader laying around collecting dust due to the lack of driver support on Windows 10?"
 disqus: true
 ---
 
